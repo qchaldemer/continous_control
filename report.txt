@@ -1,6 +1,0 @@
-
-
-I have reduced the parameter space from 2 layers with 400 and 300 units to 128 and 64 units
-I have increased the replay buffer size by a factor of 10
-I have reduced the batch size to 64 or 32
-I try to learn with 20 agents, which usually works quite well and in fact speeds up convergence.
